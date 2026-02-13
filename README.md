@@ -1,5 +1,15 @@
 # Yomitan Dictionaries for -Vietnamese
 
+## Anh, Trung, Nhật, Hàn
+
+- [Tiếng Anh](/tu-dien-anh-viet-yomitan/)
+- [Tiếng Nhật](/tu-dien-nhat-viet-yomitan/)
+- [Tiếng Trung](/tu-dien-trung-viet-yomitan/)
+
+Tiếng Hàn thì đang tìm nguồn nghen.
+
+## Các ngôn ngữ khác
+
 Kho từ điển Yomitan cho các ngôn ngữ như Tiếng Đức, Tiếng Pháp, Tiếng Tây Ban Nha, Tiếng Bồ Đào Nha, Tiếng Nga, Tiếng Ý, Tiếng Thái, Tiếng Ả Rập.
 
 - [Từ điển Tiếng Pháp](/tu-dien-phap-viet/)
