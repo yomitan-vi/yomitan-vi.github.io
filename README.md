@@ -1,3 +1,15 @@
+## Yomitan là gì?
+
+Yomitan (trước đây là Yomichan) là tiện ích mở rộng trình duyệt (browser extension) giúp tra từ vựng trên trình duyệt nhanh bằng cách di chuột (hover) vào từ.
+
+![](preview.png)
+
+*Tra liên tiếp nghĩa của các từ Tiếng Anh trong quá trình sử dụng từ điển đơn ngữ*
+
+Một điểm cực kì quan trọng nữa là Yomitan tích hợp với Anki, tạo thành một combo học từ vựng *thần thánh* (Không nói quá đâu nhé :)) Nó xịn quá luôn ấy).
+
+Đọc Documentation của Yomitan: <https://yomitan.wiki/>
+
 ## Tiếng Anh
 
 - [Dự án từ điển Tiếng Anh cho Yomitan](/tu-dien-anh-viet-yomitan/) - Hiện tại mới hỗ trợ bản từ điển của OVDP.
