@@ -1,12 +1,16 @@
-# Yomitan Dictionaries for -Vietnamese
+## Tiếng Anh
 
-## Anh, Trung, Nhật, Hàn
+- [Dự án từ điển Tiếng Anh cho Yomitan](/tu-dien-anh-viet-yomitan/) - Hiện tại mới hỗ trợ bản từ điển của OVDP.
 
-- [Tiếng Anh](/tu-dien-anh-viet-yomitan/)
-- [Tiếng Nhật](/tu-dien-nhat-viet-yomitan/)
-- [Tiếng Trung](/tu-dien-trung-viet-yomitan/)
+## Tiếng Nhật
 
-Tiếng Hàn thì đang tìm nguồn nghen.
+- [Dự án từ điển Tiếng Nhật cho Yomitan](/tu-dien-nhat-viet-yomitan/) - Bao gồm từ điển JaViDic và Suge.
+- [Mazii Yomitan](/mazii-yomitan/) - Từ điển Nhật - Việt Mazii cho Yomitan.
+
+## Tiếng Trung
+
+- [Tiếng Trung](/tu-dien-trung-viet-yomitan/) - Bao gồm từ điển Tiếng Trung mtBab và VDICT.
+- [Từ điển Chữ Hán (Hanzi)](/tu-dien-hanzi-yomitan/) - Từ điển Hán Tự Tiếng Trung cho Yomitan.
 
 ## Các ngôn ngữ khác
 
